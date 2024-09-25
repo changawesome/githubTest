@@ -16,6 +16,8 @@ def create_marks():
             print("The entered marks are: " + marks, end=' ')
 
 
+
+
 def find3Max():
     with open('C:\\Lab10\\marks.txt', 'r') as file:
         marks = file.read().split()
