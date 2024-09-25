@@ -1,6 +1,5 @@
 #Charles Bryan Antolijao, 301290232, Cnet232-lab10
 
-
 def UserInfo():
     info = ['Charles', 'Antolijao', '301290232']
     sep = " "
